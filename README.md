@@ -1,4 +1,4 @@
-#Simple wordpress user management
+# Simple wordpress user management
 -------------------
 Add possibility to edit user roles and capabilities in any Wordpress site.
 
