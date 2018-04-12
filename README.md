@@ -1,5 +1,5 @@
-Simple wordpress user management
-
+**Simple wordpress user management**
+-------------------
 Add possibility to edit user roles and capabilities in any Wordpress site.
 
 How to install: 
@@ -14,4 +14,4 @@ How to install:
 
 There is no reset options, so do the changes on your responsibilities.
 
-NOTE: For simplicity all the css an javascript is included in the php file. If you know what are you doing, you can separate them and include them manually.
+**NOTE: For simplicity all the css an javascript is included in the php file. If you know what are you doing, you can separate them and include them manually.**
